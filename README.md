@@ -1,4 +1,3 @@
-mis-configuraciones
-===================
+# Mis Configuraciones
 
-Mis configuraciones de Vim, URxvt, Openbox y Linux en general
+Mis configuraciones de Vim, URxvt, Openbox y Linux en general.
